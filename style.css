@@ -18,8 +18,16 @@ nav {
     margin-left: 20px;
 }
 
-.logo {
+.logo_n {
+    display: inline-block;
+}
+.logo1 {
     color: white;
+    display: inline-block;
+}
+.logo2 {
+    color: rgb(206, 19, 19);
+    display: inline-block;
 }
 
 ul {
